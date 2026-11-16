@@ -1,4 +1,4 @@
-### 👋 Hey, I'm Preethi Lokesh
+### 👋 Hey, I'm Preethi
 
 **Building my way into Software Engineering.**
 
