@@ -38,9 +38,13 @@ I'm a Computer Science Engineering student and Student Intern at Nokia. I like b
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins" />
 
-**Tools & IDEs**
+**Developer Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,postman" />
+
+**IDEs**
+
+<img src="https://skillicons.dev/icons?i=idea,vscode" />
 
 ---
 
@@ -52,7 +56,7 @@ I'm always happy to connect with developers, learn from others and explore new o
   <a href="https://github.com/PreethiLokesh">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="www.linkedin.com/in/preethi-lokesh">
+  <a href="https://www.linkedin.com/in/preethi-lokesh">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
